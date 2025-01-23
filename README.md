@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @alexnivanov
-- 🌐 I'm creator of *iDa! (Айда!)* social network: https://i-da.me
+- 🌐 I'm the creator of *iDa! (Айда!)* social network: https://i-da.me
 - 📫 You can reach me by telegram: @alexnivanov
